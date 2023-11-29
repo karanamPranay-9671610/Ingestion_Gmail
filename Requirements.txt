@@ -1,0 +1,10 @@
+mysql-connector-python~=8.2.0
+google-api-python-client
+google-auth-oauth
+PyPDF2~=3.0.1
+pdfminer.six~=41.0.5
+pdfplumber
+Pillow~=10.1.0
+PyMuPDF~=1.23.6
+reportlab~=4.0.7
+python-doctr

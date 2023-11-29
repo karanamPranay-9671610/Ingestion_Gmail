@@ -1,0 +1,3 @@
+vendor_address,ticket_number,truck_number,po_number,customer_name,customer_address,product,date_out,time_out,date_in,time_in,gross_weight,tare_weight,net_weight,quantity,uuid,filepath
+"6421 FM 3009, SUITE 200 • SCHERTZ, TX 78154",6275,,,"HUTCHERSON, EPIN","991 EDWARD
+'TURLOCK",HHG,7/31/23,2:44 PM,7/31/23,7:11 PM,49360 lb,43500 lb,5860 lb,,e7ce1f32-17cf-4420-a4f1-2fa30d5a390e.pdf,C:\Users\Pranay\PycharmProjects\MultiProcessing/Final/WeightTicket\e7ce1f32-17cf-4420-a4f1-2fa30d5a390e.pdf

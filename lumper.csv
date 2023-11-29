@@ -1,0 +1,2 @@
+load_number,date,ship_from_address,ship_to_address,transaction_fee,amount,total_paid,po_number,receipt_number,work_date,carrier,vendor,trailer_number,total_payments,uuid,filepath
+,"Sep 30, 2023",,,3.00,,,0041117438,,,,,,,bb6c7832-2661-48dd-bd29-e3f56916a4f4.pdf,C:\Users\Pranay\PycharmProjects\MultiProcessing/Final/WeightTicket\bb6c7832-2661-48dd-bd29-e3f56916a4f4.pdf

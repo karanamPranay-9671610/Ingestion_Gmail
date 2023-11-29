@@ -1,0 +1,2 @@
+date,paid_by,bol_po_number,trailer_number,tractor_number,location,payment_method,driver_name,service,comments,total_amount,uuid,filepath
+"Sep 30, 2023",comchek,0041117438,,,Starwale TX M100186),comchek,RAUL RENTERIA,Late Fee,WORK IN FEE,303.00,bb6c7832-2661-48dd-bd29-e3f56916a4f4.pdf,C:\Users\Pranay\PycharmProjects\MultiProcessing/Final/CashReceipt\bb6c7832-2661-48dd-bd29-e3f56916a4f4.pdf
